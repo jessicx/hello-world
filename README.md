@@ -11,6 +11,10 @@ Write a commit message that describes your changes.
 3rd change<br><br>
 This is a test change
 <br>
+<br>
+This is test change #2 
+<br>
+<br>
 4th change
 Click Commit changes button.
 
